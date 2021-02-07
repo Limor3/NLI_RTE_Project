@@ -1,7 +1,7 @@
 # NLI_RTE_Project
 Natural Language Inference (NLI), or Recognizing Textual Entailment (RTE) Project.
 
-## Intro:
+## About the project:
 I wanted to see how different newspapers review the same event.
 
 Are there any differences in the titles of the articles?
@@ -12,7 +12,7 @@ This task is part of language inference field, which is called Recognizing Textu
 
 So my project goal: determining how pairs of English sentences are related (entailment connection / contradict / neutral)
 
-*Example:*
+**Example:**
 
 Sentence 1: "The kids are sad"
 
